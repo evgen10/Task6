@@ -1,0 +1,16 @@
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\bin\Debug\XMLLibraryTest.dll
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\bin\Debug\XMLLibraryTest.pdb
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\obj\Debug\XMLLibraryTests.csprojResolveAssemblyReference.cache
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\obj\Debug\XMLLibraryTest.dll
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\obj\Debug\XMLLibraryTest.pdb
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\bin\Debug\MyXMLLibrary.dll
+D:\Tasks\Code\Task6.XML\XMLLibraryTest\bin\Debug\MyXMLLibrary.pdb
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\bin\Debug\XMLLibraryTest.dll
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\bin\Debug\XMLLibraryTest.pdb
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\bin\Debug\MyXMLLibrary.dll
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\bin\Debug\MyXMLLibrary.pdb
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\obj\Debug\XMLLibraryTests.csprojAssemblyReference.cache
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\obj\Debug\XMLLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\obj\Debug\XMLLibraryTests.csproj.CopyComplete
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\obj\Debug\XMLLibraryTest.dll
+C:\Users\mrcha\Desktop\Новая папка\Task6\XMLLibraryTest\obj\Debug\XMLLibraryTest.pdb

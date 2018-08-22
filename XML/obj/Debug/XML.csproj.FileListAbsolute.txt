@@ -1,0 +1,18 @@
+D:\Tasks\Code\Task6.XML\XML\bin\Debug\XML.exe.config
+D:\Tasks\Code\Task6.XML\XML\bin\Debug\XML.exe
+D:\Tasks\Code\Task6.XML\XML\bin\Debug\XML.pdb
+D:\Tasks\Code\Task6.XML\XML\bin\Debug\MyXMLLibrary.dll
+D:\Tasks\Code\Task6.XML\XML\bin\Debug\MyXMLLibrary.pdb
+D:\Tasks\Code\Task6.XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+D:\Tasks\Code\Task6.XML\XML\obj\Debug\XML.exe
+D:\Tasks\Code\Task6.XML\XML\obj\Debug\XML.pdb
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\bin\Debug\XML.exe.config
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\bin\Debug\XML.exe
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\bin\Debug\XML.pdb
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\bin\Debug\MyXMLLibrary.dll
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\bin\Debug\MyXMLLibrary.pdb
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\obj\Debug\XML.exe
+C:\Users\mrcha\Desktop\Новая папка\Task6\XML\obj\Debug\XML.pdb

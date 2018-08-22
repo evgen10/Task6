@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog unloadingTime="2018-08-21 22:23:02">
+  <book>
+    <name>One Hundred Years of Solitude</name>
+    <authors>
+      <name>Gabriel García Márquez</name>
+    </authors>
+    <publicationPlace>RK</publicationPlace>
+    <publisherName>TOO BOOK</publisherName>
+    <publicationYear>2018</publicationYear>
+    <pageCount>658</pageCount>
+    <remark>It's a book</remark>
+    <isbn>7-165-28221</isbn>
+  </book>
+  <newspaper>
+    <name>Time</name>
+    <publiconPlace>New York</publicationPlace>
+    <publisherName>TOO NEWSPAPER</publisherName>
+    <publicationYear>2018</publicationYear>
+    <pageCount>30</pageCount>
+    <remark>It's a newspaper</remark>
+    <number>78</number>
+    <date>2018-08-21</date>
+    <issn>0317-8471</issn>
+  </newspaper>
+  <book>
+    <name>A Brief History Of Time</name>
+    <authors>
+      <name>Stephen Hawking</name>
+    </authors>
+    <publicationPlace>RF</publicationPlace>
+    <publisherName>TOO BOOK</publisherName>
+    <publicationYear>2014</publicationYear>
+    <pageCount>847</pageCount>
+    <remark>It's a book</remark>
+    <isbn>4-495-28461</isbn>
+  </book>
+  <book>
+    <name>The Picture of Dorian Gray</name>
+    <authors>
+      <name>Oscar Wilde</name>
+    </authors>
+    <publicationPlace>USA</publicationPlace>
+    <publisherName>TOO BOOK</publisherName>
+    <publicationYear>2013</publicationYear>
+    <pageCount>420</pageCount>
+    <remark>It's a book</remark>
+    <isbn>7-523-297641</isbn>
+  </book>
+  <newspaper>
+    <name>Guardian</name>
+    <publicationPlace>USA</publicationPlace>
+    <publisherName>TOO NEWSPAPER</publisherName>
+    <publicationYear>2018</publicationYear>
+    <pageCount>44</pageCount>
+    <remark>It's a newspaper</remark>
+    <number>18</number>
+    <date>2018-08-21</date>
+    <issn>0475-7853</issn>
+  </newspaper>
+  <patent>
+    <name>Spaceship</name>
+    <authors>
+      <name>Oscar Wilde</name>
+      <name>James Hetfield</name>
+      <name>Elon Musk</name>
+    </authors>
+    <country>Russia</country>
+    <registrationNamber>1234-33-445</registrationNamber>
+    <filingDate>2014-01-21</filingDate>
+    <publicationDate>2018-08-21</publicationDate>
+    <pageCount>100</pageCount>
+    <remark>It's a patent</remark>
+  </patent>
+</catalog>

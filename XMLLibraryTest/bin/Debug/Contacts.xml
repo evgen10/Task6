@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog unloadingTime="2018-08-20 15:01:22">
+  <book>
+    <name>One Hundred Years of Solitude</name>
+    <authors>
+      <name>Gabriel García Márquez</name>
+    </authors>
+    <publicationPlace>RK</publicationPlace>
+    <publisherName>TOO BOOK</publisherName>
+    <publicationYear>2018</publicationYear>
+    <pageCount>658</pageCount>
+    <remark>It's a book</remark>
+    <isbn>7-165-28221</isbn>
+  </book>
+  <newspaper>
+    <name>Time</name>
+    <publicationPlace>New York</publicationPlace>
+    <publisherName>TOO NEWSPAPER</publisherName>
+    <publicationYear>2018</publicationYear>
+    <pageCount>30</pageCount>
+    <remark>It's a newspaper</remark>
+    <number>78</number>
+    <date>2018-08-17</date>
+    <issn>0317-8471</issn>
+  </newspaper>
+  <patent>
+    <name>Spaceship</name>
+    <authors>
+      <name>Oscar Wilde</name>
+      <name>James Hetfield</name>
+      <name>Elon Musk</name>
+    </authors>
+    <country>Russia</country>
+    <registrationNamber>1234-33-445</registrationNamber>
+    <filingDate>2014-01-17</filingDate>
+    <publicationDate>2018-08-17</publicationDate>
+    <pageCount>100</pageCount>
+    <remark>It's a patent</remark>
+  </patent>
+</catalog>
